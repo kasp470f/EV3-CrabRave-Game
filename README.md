@@ -5,7 +5,8 @@
 - Mads Brogaard
 
 ## Beskrivelse
-Vi laver et spil som på baggrund af vores viden af Googles Dinosaur spil. Spillet forgår på displayet og man skal bruge en tryksensor som er knappen til at hoppe. 
+Vi laver et spil som på baggrund af vores viden af Googles Dinosaur spil. 
+Spillet forgår på displayet og man skal bruge en tryksensor som er knappen til at hoppe. Du skal se hvor lang tid at du kan overleve for at du rammer en forhindring. 
 
 
 #### Hvordan spiller man spillet?
